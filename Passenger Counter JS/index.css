@@ -1,0 +1,38 @@
+body {
+  background-image: url("./train_img.jpg");
+  background-size: cover;
+  font-weight: bold;
+  font-size: 200%;
+  text-align: center;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: brown;
+}
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: brown;
+}
+
+.headings {
+  margin-top: 120px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 100px;
+}
+
+#main {
+  margin-top: 80px;
+  font-size: 300%;
+  font-weight: bold;
+}
+
+#del {
+  margin-right: 30px;
+}
+#save {
+  margin-left: 30px;
+}
